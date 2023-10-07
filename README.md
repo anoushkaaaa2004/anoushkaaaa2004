@@ -1,7 +1,7 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:4000/1*2pFIk1jnHExA1ZwsSDWaWg.jpeg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Anoushka Deb</h1>
 <h3 align="center">Dedicated technology enthusiast originating from India 🕹️</h3>
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a2/b4/ae/a2b4ae4ebabcd10ff10a1581366f6df2.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anoushkaaaa2004&label=Profile%20views&color=0e75b6&style=flat" alt="anoushkaaaa2004" /> </p>
 
 - 🌱 I’m currently learning **C programming**
