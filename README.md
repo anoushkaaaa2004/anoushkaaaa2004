@@ -1,4 +1,4 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/aa3b7080587945.5ce5734959f8f.png)](https://rishavchanda.io)
+[![MasterHead](https://miro.medium.com/v2/resize:fit:4000/1*2pFIk1jnHExA1ZwsSDWaWg.jpeg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Anoushka Deb</h1>
 <h3 align="center">Dedicated technology enthusiast originating from India 🕹️</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
